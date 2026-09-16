@@ -1,0 +1,60 @@
+version: 5.0.0
+
+variant: default
+
+logo:
+  text: zqma5
+
+navbar:
+  menu:
+    Home: /
+    Archives: /archives/
+    Categories: /categories/
+    Tags: /tags/
+    About: /about/
+
+footer:
+  copyright: false
+
+widgets:
+  - type: profile
+    position: left
+    author: Chester Lee
+    author_title: Chester Lee
+    description: ''
+    avatar: ''
+    gravatar: ''
+    email: ''
+    location: ''
+    follow_link: ''
+    social_links: {}
+  - type: toc
+    position: left
+  - type: links
+    position: left
+    links: {}
+  - type: recent_posts
+    position: right
+
+article:
+  highlight:
+    enable: true
+    theme: atom-one-light
+    clipboard: true
+    fold: false
+
+comment:
+  type: ''
+
+sponsor:
+  type: ''
+
+search:
+  type: ''
+
+analytics:
+  type: ''
+
+plugins:
+  - type: katex
+
