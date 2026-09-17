@@ -12,6 +12,8 @@ timezone: 'Asia/Shanghai'
 
 # URL
 url: https://14cc.github.io/zqma5
+# 本地（Hexo Pro）用 /，线上构建时由 _config.prod.yml 覆盖为 /zqma5/
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
