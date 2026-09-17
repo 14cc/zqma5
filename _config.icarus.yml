@@ -20,7 +20,7 @@ widgets:
   - type: profile
     position: left
     author: a5
-    author_title: ''
+    author_title: '记录我的财富自由之路'
     description: '记录我的财富自由之路'
     avatar: /img/avatar.JPG
     avatar_rounded: true
