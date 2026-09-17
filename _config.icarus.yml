@@ -3,7 +3,7 @@ version: 5.0.0
 variant: default
 
 logo:
-  text: 赚钱买a5
+  text: zqma5
 
 navbar:
   menu:
@@ -21,17 +21,13 @@ widgets:
     position: left
     author: a5
     author_title: '记录我的财富自由之路'
-    description: '记录我的财富自由之路'
     avatar: /img/avatar.JPG
     avatar_rounded: true
     gravatar: ''
-    email: 'pure14cc@gmail.com'
+    email: ''
     location: ''
     follow_link: ''
-    social_links:
-      X:
-        icon: fab fa-twitter
-        url: https://x.com/inthemist__
+    social_links: {}
   - type: toc
     position: left
   - type: links
