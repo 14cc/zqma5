@@ -1,0 +1,2 @@
+# 仅在 GitHub Actions 构建时使用：网站部署在 https://14cc.github.io/zqma5/ 子路径下
+root: /zqma5/
