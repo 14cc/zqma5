@@ -3,7 +3,7 @@ version: 5.0.0
 variant: default
 
 logo:
-  text: zqma5
+  text: 赚钱买a5
 
 navbar:
   menu:
@@ -19,15 +19,15 @@ footer:
 widgets:
   - type: profile
     position: left
-    author: Chester Lee
-    author_title: Chester Lee
-    description: ''
-    avatar: ''
+    author: a5
+    author_title: 
+    description: '记录我的财富自由之路'
+    avatar: /img/avatar.png
     gravatar: ''
-    email: ''
+    email: 'pure14cc@gmail.com'
     location: ''
     follow_link: ''
-    social_links: {}
+    social_links: {https://x.com/inthemist__}
   - type: toc
     position: left
   - type: links
