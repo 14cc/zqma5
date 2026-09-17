@@ -5,3 +5,7 @@ public/
 .deploy*/
 db.json
 *.log
+
+# Hexo Pro 本地数据（账号密码、部署 token），不能上传
+data/
+deploy_config.json
