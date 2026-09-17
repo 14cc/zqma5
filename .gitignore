@@ -9,3 +9,6 @@ db.json
 # Hexo Pro 本地数据（账号密码、部署 token），不能上传
 data/
 deploy_config.json
+
+# Hexo Pro 生成的文章索引（可能包含草稿内容）
+blogInfoList.json
